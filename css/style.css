@@ -1,0 +1,49 @@
+
+/*fonts*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@100&display=swap');
+
+*{
+	font-family:'roboto', sans-serif;
+	margin: 0;
+	padding: 0;
+	margin: 10px, 0; }
+
+html{
+	font-size: 62.5%;
+}
+
+h1{
+	font-size: 4rem;
+}
+
+h2{
+	font-size: 3rem;
+}
+
+h3{
+	font-size: 2rem;
+}
+
+article{
+	font-size: 2rem;
+}
+
+
+/*botonera*/
+
+#botonera{
+	background-color: rgba(253, 239, 247, 0.5);
+	font-size: 2rem;
+
+}
+
+#cuerpo{
+	background-color: rgba(253, 239, 247, 1.0);
+
+}
+#selectores li: hover{
+	background-color: white ;
+	color: black;
+
+}
